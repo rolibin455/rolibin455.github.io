@@ -1,7 +1,7 @@
 
 [![rolibin455](https://img.shields.io/badge/rolibin455-github-blue?logo=github)](https://github.com/rolibin455)
 
-I am a senior undergraduate student at the School of Computer Engineering and Science, **Shanghai University**, majoring in Intelligence Science and Technology (expected June 2026). My interests include machine learning, natural language processing, and computer vision.
+I am a senior undergraduate student at **Shanghai University**, majoring in Intelligence Science and Technology (expected June 2026). I will be joining the **University of Southern California** as an M.S. student in Computer Engineering starting Fall 2026.
 
 #### Contact
 
@@ -13,7 +13,7 @@ B.S., Intelligence Science and Technology, Shanghai University, 2022—2026.
 
 #### Research Interests
 
-Natural Language Processing; Computer Vision; Machine Learning; Reliability Engineering
+Natural Language Processing; Computer Vision; Machine Learning; Robotics; Reliability Engineering
 
 #### Research Experience
 
