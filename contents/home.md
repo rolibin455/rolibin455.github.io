@@ -1,17 +1,62 @@
 
+[![rolibin455](https://img.shields.io/badge/rolibin455-github-blue?logo=github)](https://github.com/rolibin455)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am a senior undergraduate student at the School of Computer Engineering and Science, **Shanghai University**, majoring in Intelligence Science and Technology (expected June 2026). My interests include machine learning, natural language processing, and computer vision.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: rolibin[at]shu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+B.S., Intelligence Science and Technology, Shanghai University, 2022—2026.\
+GPA: 82.9/100
+
+**Selected Courses:** Computer Vision (A), Natural Language Semantic Processing (A), Cognitive Psychology & AI (A), Discrete Mathematics (A), Probability & Statistics (A), Intelligent System Control (A-), Operating System (A-)
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+Natural Language Processing; Computer Vision; Machine Learning; Reliability Engineering
+
+#### Research Experience
+
+**Reliability Assurance System for Manufacturing Enterprises** — Shanghai, China\
+*Research Assistant, Advisor: Prof. Cheng Li* | Jan 2025 – Jun 2025
+- Investigated quality management and reliability assurance challenges in Chinese manufacturing enterprises.
+
+**Teaching Experiment for Reliability Growth Testing** — Shanghai, China\
+*Research Assistant, Advisor: Prof. Cheng Li* | Jan 2024 – Jul 2024
+- Designed and implemented teaching methodology for reliability growth testing using digital clock circuits.
+
+#### Professional Experience
+
+**Roarpanda Network Technology Co.** — R&D Intern | Jun 2025 – Aug 2025
+- Developed Python web crawler using JSON request methods to extract network attack data from VirusTotal API.
+- Built automated scraper to collect article metadata from academic journals using JSON parsing.
+- Debugged system functionalities and authored product documentation for internal training.
+
+**Zhenhua Heavy Industry (Group) Co.** — Safety Technical Intern | Jul 2024 – Aug 2024
+- Designed 2D factory safety visualization map using Visio, marking high-risk zones and blind spots.
+- Implemented role-based access control for "Kilian Eye" monitoring platform; collaborated to deploy real-time safety monitoring system with smart glasses.
+
+#### Projects
+
+**Chinese Spelling Correction System** | Jan 2025 – Jun 2025
+- Hybrid system integrating rule-based engines with MacBERT deep learning model for multi-level error detection.
+- Achieved 12.7% improvement in correction accuracy; F1 score of 0.91 for single-character errors and 0.84 for multiword semantic corrections.
+
+**GAN-based Handwritten Digit Generation (MNIST)** | Jan 2025 – Jun 2025
+- Implemented CNN architecture in generator and discriminator for realistic digit synthesis.
+- Evaluated generation quality using Inception Score and Fréchet Inception Distance (FID) metrics.
+
+#### Teaching
+
+**Intelligent Computing Systems** (Sep 2025 – Present)\
+Assisting Prof. Qingguo Xu with lab assignments, grading, and Q&A for 60+ students at Shanghai University.
+
+#### Skills
+
+**Programming:** Python, C++, MATLAB\
+**Tools:** Git, Visio, ENVI, MacBERT, JSON APIs\
+**Languages:** Mandarin (Native), English (Fluent)
 
