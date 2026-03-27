@@ -9,10 +9,7 @@ Email: rolibin[at]shu.edu.cn
 
 #### Education
 
-B.S., Intelligence Science and Technology, Shanghai University, 2022—2026.\
-GPA: 82.9/100
-
-**Selected Courses:** Computer Vision (A), Natural Language Semantic Processing (A), Cognitive Psychology & AI (A), Discrete Mathematics (A), Probability & Statistics (A), Intelligent System Control (A-), Operating System (A-)
+B.S., Intelligence Science and Technology, Shanghai University, 2022—2026.
 
 #### Research Interests
 
@@ -51,12 +48,7 @@ Natural Language Processing; Computer Vision; Machine Learning; Reliability Engi
 
 #### Teaching
 
-**Intelligent Computing Systems** (Sep 2025 – Present)\
+**Intelligent Computing Systems** (Fall 2025)\
 Assisting Prof. Qingguo Xu with lab assignments, grading, and Q&A for 60+ students at Shanghai University.
 
-#### Skills
-
-**Programming:** Python, C++, MATLAB\
-**Tools:** Git, Visio, ENVI, MacBERT, JSON APIs\
-**Languages:** Mandarin (Native), English (Fluent)
 
